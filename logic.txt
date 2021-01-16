@@ -1,2 +1,3 @@
 berechung
 valedierung
+Datenbank verknüpfung
